@@ -7,8 +7,8 @@
       
 - Otros ficheros asociados al análisis:
     - logoAirbnb.jpg, powerBIBackground.jpg, logoUOC.html: imágenes utilizadas.
-    - NewYorkCleaning.Rmd: fichero en R que recoge el preprocesado de datos a utilizar en el algoritmo de kruskal
-    - environment.yml: recoge las librerias necesarias para trabajar en python (Lopez_Vicente_Christian_PRA2.ipynb).
+    - NewYorkCleaning.Rmd: fichero en R que recoge el preprocesado de datos a utilizar en el algoritmo de kruskal.
+    - environment.yml: recoge las librerias necesarias para trabajar en python.
     - kruskal.py: fichero en python con el algoritmo de kruskal implementado.
     - Lopez_Vicente_Christian_PRA2.ipynb: notebook en python con la clusterización y la aplicación del algoritmo de kruskal.
 
