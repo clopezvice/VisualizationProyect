@@ -1,0 +1,20 @@
+name: uoc20221pra2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - scikit-learn=0.24
+  - seaborn=0.11
+  - matplotlib=3.3
+  - jupyter=1.0
+  - numpy=1.19
+  - pandas=1.2
+  - plotly=5.6
+  - scipy=1.6
+  - tqdm=4.63
+  - pip=21.2
+  - pip:
+      - umap-learn==0.5.1
+      - smopy==0.0.7
+      - haversine==2.7.0
