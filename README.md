@@ -6,7 +6,7 @@
     - NewYork_PIB.xlsx: fichero que recoge los distintos PIB de los barrios de la ciudad de Nueva York --> https://www.websaber.es/geografia/americadelnorte/ciudades/estadosunidos/nuevayork/mapa/distritosnuevayork.htm
       
 - Otros ficheros asociados al análisis:
-    - logoAirbnb.jpg, powerBIBackground.jpg, logoUOC.html: imágenes utilizadas.
+    - logoAirbnb.jpg, powerBIBackground.jpg, logoUOC.html, UOC_Masterbrand.jpg: imágenes utilizadas.
     - NewYorkCleaning.Rmd: fichero en R que recoge el preprocesado de datos a utilizar en el algoritmo de kruskal.
     - environment.yml: recoge las librerias necesarias para trabajar en python.
     - kruskal.py: fichero en python con el algoritmo de kruskal implementado.
