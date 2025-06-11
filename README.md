@@ -7,10 +7,10 @@
       
 - Otros ficheros asociados al análisis:
     - logoAirbnb.jpg, powerBIBackground.jpg, logoUOC.html, UOC_Masterbrand.jpg: imágenes utilizadas.
-    - NewYorkCleaning.Rmd: fichero en R que recoge el preprocesado de datos a utilizar en el algoritmo de kruskal.
+    - NewYorkCleaning.Rmd: fichero en R que recoge el preprocesado de datos a utilizar en el algoritmo de kruskal  --> version html en NewYorkCleaning.html
     - environment.yml: recoge las librerias necesarias para trabajar en python.
     - kruskal.py: fichero en python con el algoritmo de kruskal implementado.
-    - Lopez_Vicente_Christian_PRA2.ipynb: notebook en python con la clusterización y la aplicación del algoritmo de kruskal.
+    - Lopez_Vicente_Christian_PRA2.ipynb: notebook en python con la clusterización y la aplicación del algoritmo de kruskal --> version html en Lopez_Vicente_Christian_PRA2.html
 
 - Informe de análisis en Power BI: https://app.powerbi.com/view?r=eyJrIjoiNTgxOWY0ZjEtNzg0NS00ZDQ0LTlhNzItZjljODExZDgwOGI0IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9&embedImagePlaceholder=true
 
