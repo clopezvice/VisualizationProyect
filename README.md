@@ -1,9 +1,9 @@
 # Visualization Proyect
 
 - Ficheros de datos utilizados:
-    - NewYork_2019: conjunto de datos original --> https://www.kaggle.com/code/dgomonov/data-exploration-on-nyc-airbnb/data?select=New_York_City_.png
-    - NewYork_2019_clean: conjunto de datos limpio tras el preprocesado de datos en RStudio.
-    - NewYork_PIB: fichero que recoge los distintos PIB de los barrios de la ciudad de Nueva York --> https://www.websaber.es/geografia/americadelnorte/ciudades/estadosunidos/nuevayork/mapa/distritosnuevayork.htm
+    - NewYork_2019.csv: conjunto de datos original --> https://www.kaggle.com/code/dgomonov/data-exploration-on-nyc-airbnb/data?select=New_York_City_.png
+    - NewYork_2019_clean.csv: conjunto de datos limpio tras el preprocesado de datos en RStudio.
+    - NewYork_PIB.xlsx: fichero que recoge los distintos PIB de los barrios de la ciudad de Nueva York --> https://www.websaber.es/geografia/americadelnorte/ciudades/estadosunidos/nuevayork/mapa/distritosnuevayork.htm
       
 - Otros ficheros asociados al análisis:
     - logoAirbnb.jpg, powerBIBackground.jpg, logoUOC.html: imágenes utilizadas.
